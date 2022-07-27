@@ -1,15 +1,8 @@
 🤫 Hey, guys. I'm Omnia.
-Co-founder & CEO of @ByteFilp @RemoteCamp
 
 Email:omniarafat2321@gmail.com
 LinkedIn: https://www.linkedin.com/in/omnia-rafat-0125191b8/
 Twitter:  https://twitter.com/omniara67525723
-
-
-🤫 RemoteCamp
-Github
-Website
-Follow us on Twitter
 
 
 Here are some ideas to get you started:
