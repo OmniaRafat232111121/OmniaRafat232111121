@@ -7,6 +7,6 @@ LinkedIn: https://www.linkedin.com/in/omnia-rafat-0125191b8/
 Twitter:  https://twitter.com/omniara67525723
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmniaRafat)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmniaRafat232111121&hide=contribs,prs)
 
 
