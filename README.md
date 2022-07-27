@@ -7,19 +7,6 @@ Skills:  REACT JS / JS / HTML / CSS
 
 - 🔭 I’m currently working on Freelancer 
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaRafat232111121)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OmniaRafat232111121)  
-
-
-
-
-
-
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OmniaRafat232111121)  
 
 ![Profile views](https://gpvc.arturio.dev/OmniaRafat232111121) 
