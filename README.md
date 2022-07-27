@@ -1,6 +1,6 @@
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OmniaRafat232111121)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaRafat232111121)](https://github.com/anuraghazra/github-readme-stats)
 
