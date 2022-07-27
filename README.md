@@ -1,7 +1,16 @@
-### welcome 👋
+🤫 Hey, guys. I'm Omnia.
+Co-founder & CEO of @ByteFilp @RemoteCamp
 
-<!--
-**OmniaRafat232111121/OmniaRafat232111121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email:omniarafat2321@gmail.com
+LinkedIn: https://www.linkedin.com/in/omnia-rafat-0125191b8/
+Twitter:  https://twitter.com/omniara67525723
+
+
+🤫 RemoteCamp
+Github
+Website
+Follow us on Twitter
+
 
 Here are some ideas to get you started:
 
