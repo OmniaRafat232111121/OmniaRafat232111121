@@ -3,7 +3,8 @@
 #### Development
 I'm Omnia Rafat , I'm a front-end web developer with 2 years of experience designing and building responsive web apps. Good at CSS (React-Bootstrap, Material UI, Ant design ,Tailwind CSS ), JavaScript 🟡, React.
 
-Skills:  REACT JS / JS / HTML / CSS
+#Skills and Development:
+REACT JS / JS / HTML / CSS
 
 - 🔭 I’m currently working on Freelancer 
 
